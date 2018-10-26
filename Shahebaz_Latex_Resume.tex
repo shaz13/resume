@@ -16,6 +16,12 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{fancyhdr}
 \usepackage[english]{babel}
+\usepackage{xcolor,soul,lipsum}
+\usepackage[T1]{fontenc}
+% \usepackage{mathptmx}
+
+
+\newcommand{\myul}[2][black]{\setulcolor{#1}\ul{#2}\setulcolor{black}}
 
 \pagestyle{fancy}
 \fancyhf{} % clear all header and footer fields
@@ -38,7 +44,7 @@
 
 % Sections formatting
 \titleformat{\section}{
-  \vspace{-4pt}\scshape\raggedright\large
+  \vspace{-4pt}\raggedright\large
 }{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
 
 %-------------------------
@@ -87,6 +93,20 @@
       {Bachelor of Engineering in Electronics and Communication} {Aug. 2015 -- May. 2019}
   \resumeSubHeadingListEnd
 
+  %-----------COMPETITIVE ACHIEVEMENTS-----------------
+  \section{Competitive Achievements}
+  \begin{itemize}
+    \setlength\itemsep{-4pt}
+    \item All India 1st Runner-up out of 9107 teams at Code Gladiators in Machine Learning theme, Mumbai, 2018
+    \item \textbf{Top 1\%} of 75,307 data scientists and Kaggle triple expert in competition, kernels and discussions tiers
+    \item \textbf{Rank 1} out of 1410 applicants at Analytics Vidhya Hiring Hackathon, Gurgaon 2018
+    \item \textbf{Rank 11} out of 50 shortlisted teams in the finale of Brainwaves by Societe Generale, Bangalore, 2018
+    \item \textbf{Top 10} out of 1000+ participants for Master Orator Championship by Toastmaster International, 2016
+    \item India finalist from the south region for Microsoft Office World Championship, Delhi 2013
+    \item State finalist for seminar on Chemistry for Human Welfare at National Science Centre, Tirupati, 2011
+    \item Regional Gold medalist of International Math Olympiad, 2008
+  \end{itemize}
+
 
 %-----------EXPERIENCE-----------------
 \section{Experience}
@@ -119,63 +139,52 @@
 
   \resumeSubHeadingListEnd
 
+%-----------OPENSOURCE CONTRIBUTIONS-----------------
+  \section{Opensource Contributions}
+  \begin{itemize}
+    \setlength\itemsep{-4pt}
+    \item Contributor at scikit-learn on index corrections, cross-validated predictions, deprecation of English stop words
+in feature extraction functions - Hash, Count and TFIDF Vectorizer
+\item Contributor to FOSSASIA and Google Web Fundamentals on various front-end issues
+\item Reported bug to Google GSoC team for summerofcode.withgoogle.com 2017 website
+  \end{itemize}
+
 
 %-----------PROJECTS-----------------
-\section{Competitive Achievements}
-\begin{itemize}
-  \setlength\itemsep{-4pt}
-  \item All India 1st Runner-up out of 9107 teams at Code Gladiators in Machine Learning theme, Mumbai, 2018
-  \item \textbf{Top 1\%} of 75,307 data scientists and Kaggle triple expert in competition, kernels and discussions tiers
-  \item \textbf{Rank 1} out of 1410 applicants at Analytics Vidhya Hiring Hackathon, Gurgaon 2018
-  \item \textbf{Rank 11} out of 50 shortlisted teams in the finale of Brainwaves by Societe Generale, Bangalore, 2018
-  \item \textbf{Top 10} finalist out of 1000+ contendors for Master Orator Championshipby Toastmaster International, Hyderabad, 2016
-  \item India finalist from the south region for Microsoft Office World Championship, Delhi 2013
-  \item State finalist for seminar on Chemistry for Human Welfare at National Science Centre, Tirupati, 2011
-  \item Regional Gold medalist of International Math Olympiad, 2008
-\end{itemize}
-
 
 \section{Projects}
-
 \begin{itemize}  \setlength\itemsep{-4pt}
-   \item Home Credit Default Risk Challenge
+   \item Home Credit Default Risk Challenge -  \href{https://www.kaggle.com/c/home-credit-default-risk/leaderboard}{\color{blue}  \myul[blue] {Leaderboard}}
    \begin{itemize}\setlength\itemsep{-3pt}\vspace{-8pt}
      \item \textbf{Top 1\%} out of 7198 teams with single model scoring \textbf{AUC 0.80073} on private leaderboard
      \item Adopted adversarial validation techniques that resulted in stabilized local cross-validation scores
    \end{itemize}\vspace{-6pt}
 
-   \item Santander Value Prediction Challenge - Leader board
+   \item Santander Value Prediction Challenge-
+   \href{https://www.kaggle.com/c/santander-value-prediction-challenge/leaderboard}{\color{blue}  \myul[blue] {Leaderboard}}
    \begin{itemize}\setlength\itemsep{-3pt}\vspace{-8pt}
      \item \textbf{Top 4\%} out of 4484 teams with \textbf{RMSLE 0.54496} on private leaderboard.
      \item Applied various decomposition techniques – PCA, tSVD, and Auto Encoder features.
    \end{itemize}\vspace{-6pt}
 
-   \item Toxic Comment Classification - Project link
+   \item Toxic Comment Classification -
+   \href{https://github.com/neptune-ml/open-solution-toxic-comments}{\color{blue}  \myul[blue] {GitHub link}}
    \begin{itemize}\setlength\itemsep{-3pt}\vspace{-8pt}
      \item \textbf{Top 1\%} with \textbf{AUC 0.9852} score on the private leaderboard
      \item Applied Count Vectorizer, TFIDF Vectorizer, Glove embeddings, FastText embeddings
      \item Contributed to neptune.ml and pushed PRs on feature engineering and text pre-processing
    \end{itemize}\vspace{-6pt}
-
 \end{itemize}
 
 
 
-
-
-
-
-%
 %--------PROGRAMMING SKILLS------------
-% \section{Programming Skills}
-%  \resumeSubHeadingListStart
-%    \item{
-%      \textbf{Languages}{: Python, C, Javascript, }
-%      \hfill
-%      \textbf{Technologies}{: Goolge Cloud, NodeJS, Kafka, GCE}
-%    }
-%  \resumeSubHeadingListEnd
-%
+\section{Programming Skills}
+ \begin{itemize}\setlength\itemsep{-3pt}
+   \item \textbf{Languages} Python, Git, HTML, CSS, JavaScript, NodeJS and MASAM
+   \item \textbf{Technologies} Google Compute Engine, Tableau, Microsoft Excel, Linux, Windows and Mac OS
+\end{itemize}\vspace{-6pt}
+
 
 %-------------------------------------------
 \end{document}
