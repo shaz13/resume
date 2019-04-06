@@ -5,6 +5,9 @@
 1. Kaggle - www.kaggle.com/shaz13
 2. GitHub - www.github.com/shaz13
 3. LinkedIn - www.linkedin.com/in/shaz13
+4. Medium - https://medium.com/@shaz13
+5. XDA Developer - https://forum.xda-developers.com/member.php?u=5779101
+6. DroidViews - https://www.droidviews.com/author/shahebaz/
 
 ### Experience 
 
