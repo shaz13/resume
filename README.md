@@ -11,7 +11,7 @@
 | Company   |      Role      |  Period |
 |----------|:-------------:|------:|
 |  H2O.ai   |  Data Scientist Intern   | Jan 2019 – Present |
-| Analytics Vidhya |    Data Science Intern   |   May 2018 – Nov. 2018 |    
+| Analytics Vidhya |    Data Science Intern   |   May 2018 – Nov 2018 |    
 
 
 ### Competitive Achievements
