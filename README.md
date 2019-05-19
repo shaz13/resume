@@ -2,7 +2,7 @@
 
 #### Profiles Handles
 
-1. Kaggle - www.kaggle.com/shaz13
+1. Kaggle Competition & Discussion Master - www.kaggle.com/shaz13
 2. GitHub - www.github.com/shaz13
 3. LinkedIn - www.linkedin.com/in/shaz13
 4. Medium - https://medium.com/@shaz13
