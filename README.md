@@ -13,7 +13,8 @@
 
 | Company   |      Role      |  Period |
 |----------|:-------------:|------:|
-|  H2O.ai   |  Data Scientist Intern   | Jan 2019 – Present |
+|  Societe Generale   |  Data Scientist   | June 2019 – Present |
+|  H2O.ai   |  Data Scientist Intern   | Jan 2019 – May 2019 |
 | Analytics Vidhya |    Data Science Intern   |   May 2018 – Nov 2018 |    
 
 
