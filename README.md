@@ -18,7 +18,7 @@
 
 
 ### Competitive Achievements
-
+- Top 8th and Gold medal at PetFinder.my Adoption Prediction among 2000+ teams at Kaggle, 2019
 - Winner of the most innovative solution award at Brainwaves by Societie Generale, 2019
 - Top 3% of 4037 teams and silver medalist at Quora Insincere Question Classification, Kaggle, 2019
 - All India 1st Runner-up at TechGig Code Gladiators in Machine Learning hackathon, Mumbai, 2018
