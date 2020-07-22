@@ -13,7 +13,7 @@
 
 | Company   |      Role      |  Period |
 |----------|:-------------:|------:|
-|  Societe Generale   | Assosiate Data Scientist | Jan 2020 – Present |
+|  Societe Generale   | Associate Data Scientist | Jan 2020 – Present |
 |  Societe Generale   |  Data Analyst, Machine Learning   | June 2019 – Jan 2020 |
 |  H2O.ai   |  Data Scientist Intern   | Jan 2019 – May 2019 |
 | Analytics Vidhya |    Data Science Intern   |   May 2018 – Nov 2018 |    
