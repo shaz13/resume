@@ -18,6 +18,8 @@
 |  H2O.ai   |  Data Scientist Intern   | Jan 2019 – May 2019 |
 | Analytics Vidhya |    Data Science Intern   |   May 2018 – Nov 2018 |    
 
+Updated Resume - https://drive.google.com/file/d/1paVwPyRCZpmDOUbp3V2tzQ9n_paQaif9/view?usp=sharing
+
 
 ### Competitive Achievements
 - Top 8th and Gold medal at PetFinder.my Adoption Prediction among 2000+ teams at Kaggle, 2019
